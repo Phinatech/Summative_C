@@ -1,0 +1,44 @@
+ENERGY METER GATEWAY LOG FILE
+========================================
+System: Smart Energy Monitoring System
+Date: 2024-01-15
+Location: Building A - Floor 3
+========================================
+
+[10:00:00] Meter #101: Power consumption 1250W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:00:15] Meter #102: Power consumption 1255W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:00:30] Meter #103: Power consumption 1248W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:00:45] Meter #104: Power consumption 1260W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:01:00] Meter #105: Power consumption 1252W, Voltage 230V, Frequency 50Hz - NORMAL
+
+[10:01:15] Meter #101: Power consumption 1265W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:01:30] Meter #102: Power consumption 1270W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:01:45] Meter #103: Power consumption 1258W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:02:00] Meter #104: Power consumption 1275W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:02:15] Meter #105: Power consumption 1268W, Voltage 230V, Frequency 50Hz - NORMAL
+
+[10:02:30] Meter #101: Power consumption 1280W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:02:45] Meter #102: Power consumption 1285W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:03:00] Meter #103: Power consumption 1278W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:03:15] Meter #104: Power consumption 1290W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:03:30] Meter #105: Power consumption 1282W, Voltage 230V, Frequency 50Hz - NORMAL
+
+[10:03:45] Meter #101: Power consumption 1295W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:04:00] Meter #102: Power consumption 1300W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:04:15] Meter #103: Power consumption 1288W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:04:30] Meter #104: Power consumption 1305W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:04:45] Meter #105: Power consumption 1292W, Voltage 230V, Frequency 50Hz - NORMAL
+
+[10:05:00] Meter #101: Power consumption 1310W, Voltage 230V, Frequency 50Hz - WARNING
+[10:05:15] Meter #102: Power consumption 1315W, Voltage 230V, Frequency 50Hz - WARNING
+[10:05:30] Meter #103: Power consumption 1298W, Voltage 230V, Frequency 50Hz - NORMAL
+[10:05:45] Meter #104: Power consumption 1320W, Voltage 230V, Frequency 50Hz - WARNING
+[10:06:00] Meter #105: Power consumption 1302W, Voltage 230V, Frequency 50Hz - NORMAL
+
+========================================
+Total Events: 25
+Normal Events: 22
+Warning Events: 3
+Critical Events: 0
+========================================
+End of Log File
